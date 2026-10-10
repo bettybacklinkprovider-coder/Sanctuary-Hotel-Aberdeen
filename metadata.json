@@ -1,0 +1,6 @@
+{
+  "name": "Sanctuary Hotel Aberdeen",
+  "description": "Experience boutique Scottish hospitality at Sanctuary Hotel in Caroline Place, Aberdeen. Luxury rooms, bespoke comfort, and refined accommodations in the heart of the Granite City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
